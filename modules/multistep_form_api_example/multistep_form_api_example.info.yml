@@ -1,0 +1,7 @@
+name: 'Multistep Form API Example'
+type: module
+description: 'An example form created with Multiste Form API module.'
+package: Other
+core: 8.x
+dependencies:
+  - multistep_form_api:multistep_form_api

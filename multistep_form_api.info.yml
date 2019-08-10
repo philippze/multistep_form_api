@@ -1,0 +1,5 @@
+name: Multistep Form API
+type: module
+description: Provides an api for creating a multistep forms.
+package: Other
+core: 8.x

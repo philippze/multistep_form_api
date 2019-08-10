@@ -1,0 +1,7 @@
+multistep_form_api_example.form_example:
+  path: '/multistep-form-api-example'
+  defaults:
+    _form: '\Drupal\multistep_form_api_example\Form\MyMultistepForm'
+    _title: 'Multistep Form API example'
+  requirements:
+    _permission: 'access content'
